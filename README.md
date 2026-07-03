@@ -44,16 +44,16 @@ A Splunk Enterprise and Sysmon based Detection Engineering lab for monitoring Wi
 ![Sysmon Events Generated](screenshots/01-sysmon-events-generated.png)
 
 ### Log Ingestion Validation
-![Log Ingestion Validation](screenshots/02-log-ingestion-validation.png)
+![Log Ingestion Validation](screenshots/02-log-injestion-validation.png)
 
 ### Process Creation Monitoring
-![Process Creation Monitoring](screenshots/03-process-creation-events.png)
+![Process Creation Monitoring](screenshots/03-process-creation-event.png)
 
 ### PowerShell Execution Detection
 ![PowerShell Execution Detection](screenshots/04-powershell-execution-detection.png)
 
 ### Encoded PowerShell Detection
-![Encoded PowerShell Detection](screenshots/05-encoded-powershell-detection.png)
+![Encoded PowerShell Detection](screenshots/05-encoded-powershell-execution.png)
 
 ### Suspicious Parent-Child Process Detection
 ![Suspicious Parent-Child Process Detection](screenshots/06-suspicious-parent-child-process.png)
