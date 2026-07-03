@@ -50,7 +50,7 @@ A Splunk Enterprise and Sysmon based Detection Engineering lab for monitoring Wi
 ![Process Creation Monitoring](screenshots/03-process-creation-event.png)
 
 ### PowerShell Execution Detection
-![PowerShell Execution Detection](screenshots/04-powershell-execution-detection.png)
+![PowerShell Execution Detection](screenshots/04-powershell-exectution-detection.png)
 
 ### Encoded PowerShell Detection
 ![Encoded PowerShell Detection](screenshots/05-encoded-powershell-execution.png)
@@ -59,7 +59,7 @@ A Splunk Enterprise and Sysmon based Detection Engineering lab for monitoring Wi
 ![Suspicious Parent-Child Process Detection](screenshots/06-suspicious-parent-child-process.png)
 
 ### LOLBin (Certutil) Detection
-![LOLBin Detection](screenshots/07-lolbin-certutil-detection.png)
+![LOLBin Detection](screenshots/07-lolbin-certuil-detection.png)
 
 ### SOC Dashboard
 ![SOC Dashboard Overview - Part 1](screenshots/08a-dashboard-overview.png)
