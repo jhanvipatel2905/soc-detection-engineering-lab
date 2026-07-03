@@ -44,7 +44,7 @@ A Splunk Enterprise and Sysmon based Detection Engineering lab for monitoring Wi
 ![Sysmon Events Generated](screenshots/01-sysmon-events-generated.png)
 
 ### Log Ingestion Validation
-![Log Ingestion Validation](screenshots/02-log-injestion-validation.png)
+![Log Ingestion Validation](screenshots/02-log-ingestion-validation.png)
 
 ### Process Creation Monitoring
 ![Process Creation Monitoring](screenshots/03-process-creation-event.png)
